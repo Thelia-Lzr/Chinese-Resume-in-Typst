@@ -89,6 +89,7 @@
       columns: (auto, 1fr, photograph-width),
       gutter: (gutter-width, 0em),
       [#header #introduction],
+      [],
       if photograph != "" {
         image(photograph, width: photograph-width)
       },
