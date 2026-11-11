@@ -23,7 +23,7 @@
   photograph-width: 10em,
   gutter-width: 2em,
 )[
-  = Thelia
+  = Thelia 李梓睿
 
   #info(
     color: theme-color,
@@ -187,7 +187,7 @@
 #item(
   link(
     "https://github.com/AstrBotDevs/AstrBot",
-    [ *AstrBot*],
+    [ *AstrBot (30K+ Stars)*],
   ),
   [ *开源贡献* ],
   [ #date[2026.04] ]
@@ -224,10 +224,14 @@
   *软考中级*
 
   *NCRE*
+
+  *业余无线电*
 ][
   数据库系统工程师（已通过）
 
   C语言（三级优秀）
+
+  A类操作能力验证（通过） - 呼号: BI4BLC
 ]
 
 == #fa-award 校内实践与获奖
@@ -238,7 +242,7 @@
   *技能与实践*
 ][
   上海大学足球机器人对抗赛校赛 三等奖 \
-  上海大学力与美滑翔机竞赛 三等奖
 
+  上海大学力与美滑翔机竞赛 三等奖 \
   上海大学简历大赛 "潜力新星奖"
 ]
